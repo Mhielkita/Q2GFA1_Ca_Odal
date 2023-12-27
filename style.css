@@ -53,3 +53,30 @@ nav{
     color: white;
     font-size: 50px;
 }
+footer{
+    margin-top: 52vh;
+    height: 10.7vh;
+    padding-left: 2vw;;
+    background-color: darkblue;
+    position: relative;
+    
+}
+.icon{
+    background: url(sprites.png);
+    display: inline-block;   
+    background-repeat: no-repeat;
+    width: 66px;
+    height: 66px;
+}
+#facebook{
+    background-position: -439px -146px;
+}
+#twitter{
+    background-position: -66px -72px;
+}
+#youtube{
+    background-position: -439px -221px;
+}
+#instagram{
+    background-position: -290px -221px;
+}
